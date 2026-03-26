@@ -49,8 +49,8 @@ main{flex-grow: 1; padding: 30px;}
     background-color: #1abd1c;
     display: inline-block;
 }
-.blue{background:linear-gradient(135deg, #00c0ef, #0d4b5a)}
-.green{background: linear-gradient(135deg, #12dd12,  #31a731);}
+.blue{background:linear-gradient(135deg, #00c0ef, #075164)}
+.green{background: linear-gradient(135deg, #12dd12,  #064e06);}
 form{
     background: white;
     padding: 200px;
